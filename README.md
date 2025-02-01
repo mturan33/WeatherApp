@@ -28,9 +28,11 @@ WeatherApp is a mobile application designed to provide users with real-time weat
 2. **Open in Android Studio**:
    - Launch [Android Studio](https://developer.android.com/studio).
    - Select 'Open an existing project' and navigate to the cloned repository's directory.
-
+   - Change the api section to your google maps api.
+   
 3. **Build the Project**:
    - Ensure all dependencies are installed.
+   - Add an API 35 Emulator.
    - Build the project to check for any issues.
 
 4. **Run the App**:
