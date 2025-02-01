@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ThirdProjectApp</string>
+    <string name="base_currency">X: 1.00</string>
+    <string name="usd">USD: </string>
+    <string name="PLN">PLN: </string>
+    <string name="TRY">TRY: </string>
+    <string name="next_update">Next Update: </string>
+    <string name="last_updated">Last Updated: </string>
+    <string name="latitude">latitude: </string>
+    <string name="longitude">Latitude: , Longitude: </string>
+    <string name="google_maps_api_key">AIzaSyDBtexz7r-QhLGhvpL-bDmAnB_U5gb0RAU</string>
+    <string name="current_weather">Current Weather: </string>
+    <string name="weekly_weather">Daily Weathers: </string>
+    <string name="temperature">Temperature Sensor: </string>
+    <string name="humidity">Humidity Sensor: </string>
+</resources>
